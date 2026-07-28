@@ -1,4 +1,4 @@
-<img width="1067" height="606" alt="{3EEC3DC2-62B7-41D1-944F-F2E9F7D9010D}" src="https://github.com/user-attachments/assets/f1301553-d950-47df-8c15-4a9eea076dec" /># 🏨 StayEase - Hotel Booking Platform
+# 🏨 StayEase - Hotel Booking Platform
 
 <div align="center">
 
